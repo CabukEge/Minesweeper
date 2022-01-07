@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.html linguist-detectable=false
+Foo*    attr1=value1 attr2=value2
+*.meta  !attr1
